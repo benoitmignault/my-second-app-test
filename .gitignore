@@ -1,5 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+/android
+/ios
+/.idea
+/.gradle
+
+# scanner
+/.scannerwork
+
 # dependencies
 /node_modules
 /.pnp
@@ -17,7 +25,11 @@
 .env.development.local
 .env.test.local
 .env.production.local
+.vscode
 
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# rapport testing
+test-report.xml

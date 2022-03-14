@@ -1,6 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import './index.css';
 
 /*
 Empêcher l’affichage d’un composant

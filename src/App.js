@@ -21,7 +21,9 @@ function App() {
       <Welcome name="Sara" />
       <Welcome name="Cahal" />
       <Welcome name="Edite" />
-      <Hooks />
+      <header className="App-header">
+        <Hooks />
+      </header>
     </div>
   );
 }
